@@ -1,0 +1,12 @@
+.app{
+  margin: 0 auto;
+  max-width: 600px;
+}
+.app-title{
+  text-align: center;
+  margin: 3% 0;
+  font-size: 1.2rem;
+}
+.none {
+  display: none;
+}

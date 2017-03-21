@@ -1,0 +1,9 @@
+.article, .add  {
+  padding: 2.5%;
+  margin: 0 0 10px;
+  text-align: center;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+  box-shadow: 1px 3px 7px -1px rgba(0, 0, 0, 0.3);
+  transition: all ease 1s;
+}

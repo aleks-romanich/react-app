@@ -1,0 +1,29 @@
+.news__author {
+  color: #333;
+  font-weight: bold;
+  font-size: 1rem;
+}
+.news__count {
+  display: block;
+  text-align: left;
+  font-size: 0.85rem;
+  color: #777;
+  margin-bottom: 10px;
+}
+.news__text{
+  margin: 2% 0;
+}
+.news__readmore{
+  color: #bbb;
+  font-weight: bold;
+  font-size: 0.87rem;
+  transition: all ease 0.3s;
+}
+.news__readmore:hover{
+  color: #555;
+}
+.news__big-text, .news__text{
+  color: #333;
+  font-size: 0.95rem;
+  line-height: 1.2rem;
+}

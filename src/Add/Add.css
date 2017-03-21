@@ -1,0 +1,38 @@
+.add {
+  margin-top: 10px;
+}
+.add__author, .add__text, .add__btn {
+  display: block;
+  margin: 0 auto 10px auto;
+  width: 100%;
+  border: 1px solid rgba(0, 0,0, 0.3);
+  border-radius: 3px;
+}
+.add__author, .add__text{
+  padding: 2% 3%;
+  font-size: 0.95rem;
+}
+.add__checkrule {
+  display: block;
+  border: none;
+  font-size: 0.75rem;
+  margin-bottom: 10px;
+}
+.add__btn {
+  padding: 2%;
+  margin-bottom: 0;
+  color: #fff;
+  text-transform: uppercase;
+  background: #777;
+  transition: all ease 0.3s;
+}
+.add__checkrule input{
+  margin-right: 5px;
+}
+.add__btn:hover{
+  cursor: pointer;
+}
+.add__btn:disabled {
+  background: #CCC;
+  color: #999;
+}
